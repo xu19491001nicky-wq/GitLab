@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-    // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    printf("Learning Git one commit at a time.\n");
+    return 0;
 }
