@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Learning Git one commit at a time.\n");
+    printf("Feature branch: mastering merges.\n");
     return 0;
 }
