@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Main branch: building a clean history.\n");
+    printf("Main and feature branches merged successfully.\n");
     return 0;
 }
