@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Learning Git one commit at a time.\n");
+    printf("Main branch: building a clean history.\n");
     return 0;
 }
